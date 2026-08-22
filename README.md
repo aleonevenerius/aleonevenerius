@@ -1,5 +1,5 @@
 ## 👋🏼 Salutations! 
-My name is Alexandre.  I am a young boy who loves coding programmes and drinks coffee.
+I am a young boy who loves coding programmes and drinks coffee.
 
 ## 🛠️ Skills and Tools
 
