@@ -1,9 +1,14 @@
-## 👋🏼 Salutations! 
+# 👋🏼 Salutations! 
 I am a young boy who loves coding programmes and drinks coffee.
+
+## Languages Spoken
+- 🇧🇷 Portuguese — Native
+- 🇬🇧 English — B1
 
 ## 🛠️ Skills and Tools
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
