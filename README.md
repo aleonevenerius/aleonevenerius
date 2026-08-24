@@ -1,10 +1,6 @@
 # 👋🏼 Salutations! 
 I am a young boy who loves coding programmes and drinks coffee.
 
-## Languages Spoken
-- 🇧🇷 Portuguese — Native
-- 🇬🇧 English — B1
-
 ## 🛠️ Skills and Tools
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -14,3 +10,7 @@ I am a young boy who loves coding programmes and drinks coffee.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## 🗣️Languages Spoken
+- 🇧🇷 Portuguese — Native
+- 🇬🇧 English — B1
