@@ -1,5 +1,5 @@
 # 👋🏼 Salutations! 
-I am a young boy who loves coding programmes and drinks coffee.
+I am a young boy who loves technology - mainly coding programmes - and drinks coffee.
 
 ## 🛠️ Skills and Tools
 
