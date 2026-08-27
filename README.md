@@ -26,6 +26,6 @@ I enjoy learning new things, experimenting with code, and exploring the world of
 - 🇧🇷 Portuguese — Native
 - 🇬🇧 English — B1
 
-📫 Contact
+## 📫 Contact
 
 📧 Email: hello.venerius@gmail.com
