@@ -1,5 +1,8 @@
 ## 🧑‍💻 About me
----
+
+Greetings! I'm a programming enthusiast who enjoys building small projects, experimenting with different ideas, and learning new things.
+
+I mainly code for fun and to improve my programming and Git/GitHub skills.
 
 ## 🛠️ Technologys
 
