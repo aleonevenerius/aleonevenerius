@@ -35,18 +35,15 @@
 
 </div>
 
-## 📫 Entre em contato
+## 🗣️ Languages Spoken
 
-<div align="center">
+- 🇧🇷 Portuguese — Native
+- 🇬🇧 English — B1
 
-**Vamos construir algo incrível juntos. 🚀**
+## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.venerius@gmail.com)
 </div>
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge)
 
